@@ -1,3 +1,6 @@
+#!name=TikTok Unlock - Taiwan
+#!desc=By enabling this module, the TikTok region restriction will be removed, and you will be redirected to the Taiwan region.
+
 [URL Rewrite]
 
 (?<=_region=)CN(?=&) TW 307
